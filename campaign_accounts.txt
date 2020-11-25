@@ -84,28 +84,9 @@
 6249327495
 6671936462
 1565389219
-2020-11-25 13:51:07.185  INFO   --- [           main] AdwordsTest                              : 6054260684
-2020-11-25 13:53:52.843  INFO   --- [           main] AdwordsTest                              : [WARNING] starting callonlyads/keywords
-2020-11-25 13:57:09.194  INFO   --- [           main] AdwordsTest                              :  stopping callonlyads/keywords
 6054260684
-2020-11-25 13:57:09.274  INFO   --- [           main] AdwordsTest                              : 7698674037
-2020-11-25 14:00:20.371  INFO   --- [           main] AdwordsTest                              : [WARNING] starting callonlyads/keywords
-2020-11-25 14:03:43.149  INFO   --- [           main] AdwordsTest                              :  stopping callonlyads/keywords
 7698674037
-2020-11-25 14:03:43.267  INFO   --- [           main] AdwordsTest                              : 4878892084
-2020-11-25 14:06:33.234  INFO   --- [           main] AdwordsTest                              : [WARNING] starting callonlyads/keywords
-2020-11-25 14:09:36.663  INFO   --- [           main] AdwordsTest                              :  stopping callonlyads/keywords
 4878892084
-2020-11-25 14:09:36.769  INFO   --- [           main] AdwordsTest                              : 5283789972
-2020-11-25 14:12:26.644  INFO   --- [           main] AdwordsTest                              : [WARNING] starting callonlyads/keywords
-2020-11-25 14:15:25.744  INFO   --- [           main] AdwordsTest                              :  stopping callonlyads/keywords
 5283789972
-2020-11-25 14:15:25.877  INFO   --- [           main] AdwordsTest                              : 6221441619
-2020-11-25 14:18:18.350  INFO   --- [           main] AdwordsTest                              : [WARNING] starting callonlyads/keywords
-2020-11-25 14:21:20.258  INFO   --- [           main] AdwordsTest                              :  stopping callonlyads/keywords
 6221441619
-2020-11-25 14:21:20.354  INFO   --- [           main] AdwordsTest                              : 5632313707
-2020-11-25 14:24:02.714  INFO   --- [           main] AdwordsTest                              : [WARNING] starting callonlyads/keywords
-2020-11-25 14:26:58.414  INFO   --- [           main] AdwordsTest                              :  stopping callonlyads/keywords
 5632313707
-
