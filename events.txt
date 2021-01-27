@@ -2,3 +2,5 @@
 1
 dayparting
 geo_target_full
+display_name
+tracking_number
