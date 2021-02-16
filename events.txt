@@ -2,4 +2,3 @@
 1
 dayparting
 geo_target_full
-tracking_number
