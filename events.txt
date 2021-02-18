@@ -1,4 +1,8 @@
-1
-1
+10
+10
+budget
+price
+display_name
+description
 dayparting
 geo_target_full
