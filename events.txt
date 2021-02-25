@@ -5,3 +5,4 @@ display_name
 description
 dayparting
 geo_target_full
+geo_target_delta
