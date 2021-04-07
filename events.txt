@@ -6,3 +6,4 @@ description
 dayparting
 geo_target_full
 geo_target_delta
+duration_in_seconds
